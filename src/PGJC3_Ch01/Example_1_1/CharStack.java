@@ -1,6 +1,7 @@
 //Source Filename: CharStack.java
 public class CharStack {         // Class name
   // Class Declarations:
+  // Quick test of git
 
   // Fields:                                                           (1)
   private char[] stackArray;     // The array implementing the stack.
